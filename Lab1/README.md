@@ -1,2 +1,1 @@
-
-#CSE107 Introduction To Image Processing Halftoning
+CSE107 Introduction To Image Processing Halftoning
