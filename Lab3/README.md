@@ -1,2 +1,3 @@
+Lab 3: Histogram Equialization
 
-Lab 3: 
+
