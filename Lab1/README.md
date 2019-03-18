@@ -1,1 +1,1 @@
-CSE107 Introduction To Image Processing Halftoning
+Lab 1: Halftoning
